@@ -1,6 +1,6 @@
 # Transcribble
 
-    > Transcribble is way to save my  time by pipelining the Medical Transcription process through whisper.
+    > Transcribble is way to save my  mother in law time by pipelining the Medical Transcription process through whisper.
 
     > Openai whisper was chosen for its active development, localization to maintain patient confidentiality, ease of use and it was open source.  
 
